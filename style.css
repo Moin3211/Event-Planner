@@ -1,0 +1,11 @@
+
+
+.header{display:flex; align-items: center; justify-content: space-between; flex-direction: row; background-color: rgb(70, 63, 63);
+} 
+.li1{list-style-type:none; display:inline-block; margin-top: auto; padding: 10px 10px; margin-right: 2em;}
+ body {background-color: rgb(192, 188, 188);} 
+.a1{color: white; font-weight: bold;}
+.logo{margin-left: 2em;}
+.h11{font-size:  100px; margin: 24px;}
+.section1{display: flex; justify-content: center;}
+.section2{display: flex; justify-content: center;;}
